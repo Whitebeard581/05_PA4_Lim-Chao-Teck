@@ -115,7 +115,11 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 474}
   m_MaxSize: {x: 18008, y: 14024}
   vertical: 0
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
   controlID: 156
+=======
+  controlID: 136
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +144,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 348}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
   controlID: 15
+=======
+  controlID: 137
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,11 +195,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
     y: 603
     width: 829
     height: 256
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    y: 735
+    width: 1103
+    height: 124
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -221,7 +237,11 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 474}
   m_MaxSize: {x: 10004, y: 14024}
   vertical: 1
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
   controlID: 97
+=======
+  controlID: 48
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -638,7 +658,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d6fbffff
+      m_ExpandedIDs: 72f7ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -700,11 +720,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\limch\OneDrive\Documents\GitHub\05_PA4_Lim-Chao-Teck\05_Lim
     Chao Teck_PA4\05_Lim Chao Teck_PA4
@@ -712,9 +732,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
     m_SelectedIDs: 7c0a0000
     m_LastClickedID: 2684
     m_ExpandedIDs: 000000007a09000000ca9a3b
+=======
+    m_SelectedIDs: 902e0000
+    m_LastClickedID: 11920
+    m_ExpandedIDs: 000000000c2d000000ca9a3b
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -742,7 +768,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream:05_Lim Chao Teck_PA4/05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
     m_ExpandedIDs: 000000007a090000
+=======
+    m_ExpandedIDs: 000000000c2d0000
+>>>>>>> Stashed changes:05_Lim Chao Teck_PA4/Library/CurrentLayout.dwlt
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
